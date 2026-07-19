@@ -42,18 +42,18 @@
     {
       "tag": {
         "pt": "Comunidade",
-        "en": "",
-        "es": ""
+        "en": "Community",
+        "es": "Comunidad"
       },
       "titulo": {
         "pt": "Entre no nosso Discord",
-        "en": "",
-        "es": ""
+        "en": "Join our Discord",
+        "es": "Únete a nuestro Discord"
       },
       "texto": {
         "pt": "Tire duvidas, sugira mods e acompanhe as atualizacoes com a comunidade.",
-        "en": "",
-        "es": ""
+        "en": "Ask questions, suggest mods and keep up with updates alongside the community.",
+        "es": "Resuelve dudas, sugiere mods y sigue las actualizaciones junto a la comunidad."
       },
       "imagem": "",
       "url": "https://discord.gg/sangriafalls"
