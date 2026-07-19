@@ -1,24 +1,28 @@
-# sangria-mods
+<h1 align="center">🦇 Sangria Falls — Conteúdo</h1>
 
-Repositorio de conteudo do **Sangria Falls Launcher**. Guarda o catalogo de mods,
-as noticias do painel e as imagens. Os binarios (DLLs e o zip do BepInEx) sao
-distribuidos como **release assets**, nao ficam no git.
+<p align="center">
+  Repositório de conteúdo oficial do <a href="https://github.com/duugagno/sangria-falls-launcher"><b>Sangria Falls Launcher</b></a>.<br>
+  Catálogo de mods, notícias e aparência do launcher — atualizados automaticamente para todos os jogadores.
+</p>
 
-## Arquivos
+---
 
-- `manifest.json` — catalogo de mods + versao do BepInEx (o launcher le isto)
-- `news.json` — noticias do carrossel do painel
-- `news/` — imagens das noticias (jpg/png)
+## O que é isto?
 
-## Atualizar um mod
+O launcher do **Sangria Falls** (servidor RPG de V Rising) lê este repositório para se manter atualizado:
+mods novos, notícias e mudanças visuais chegam a todos os jogadores automaticamente, sem precisar reinstalar nada.
 
-1. Suba a DLL nova como asset de um release (tag `mod-id-x.y.z`).
-2. Gere o hash: `Get-FileHash arquivo.dll -Algorithm SHA256`.
-3. No `manifest.json`, atualize `versao`, `url` e `sha256` do mod.
-4. `git commit` + `git push`. O launcher baixa o diff sozinho.
+**Jogadores não precisam mexer aqui.** Basta ter o launcher:
 
-## Adicionar uma noticia
+<p align="center">
+  <a href="https://github.com/duugagno/sangria-falls-launcher/releases/latest"><b>⬇️ Baixar o Sangria Falls Launcher</b></a>
+</p>
 
-Edite `news.json` (campos: `tag`, `titulo`, `texto`, `imagem`, `url`) e faca push.
-`imagem` e `url` sao opcionais. Imagens podem ficar em `news/` e ser referenciadas
-por URL raw, ou apontar para qualquer https.
+## Comunidade
+
+- 💬 Discord: [discord.gg/sangriafalls](https://discord.gg/sangriafalls)
+- ▶️ YouTube: [@sangriafalls](https://www.youtube.com/@sangriafalls)
+
+---
+
+<p align="center"><sub>© Sangria Falls. Os arquivos deste repositório são gerenciados pela equipe do servidor.</sub></p>
