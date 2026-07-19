@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "atualizadoEm": "2026-07-19",
+  "noticias": [
+    {
+      "tag": "Novidade",
+      "titulo": "Bem-vindo ao Sangria Falls",
+      "texto": "O launcher agora instala e mantem seus mods de V Rising atualizados automaticamente.",
+      "imagem": "https://raw.githubusercontent.com/SEU_USUARIO/sangria-mods/main/news/welcome.jpg",
+      "url": "https://discord.gg/SEU_CONVITE"
+    },
+    {
+      "tag": "Mod",
+      "titulo": "Scarlet Interface 1.0.0",
+      "texto": "Nova interface disponivel. Clique em Instalar / Atualizar para baixar.",
+      "imagem": "https://raw.githubusercontent.com/SEU_USUARIO/sangria-mods/main/news/scarlet.jpg",
+      "url": ""
+    },
+    {
+      "tag": "Comunidade",
+      "titulo": "Entre no nosso Discord",
+      "texto": "Tire duvidas, sugira mods e acompanhe as atualizacoes com a comunidade.",
+      "imagem": "",
+      "url": "https://discord.gg/SEU_CONVITE"
+    }
+  ]
+}

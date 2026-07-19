@@ -1,0 +1,3 @@
+# Binarios grandes vao como release assets, nao no git.
+*.zip
+*.dll
