@@ -3,7 +3,7 @@
   "atualizadoEm": "2026-07-19",
   "bepinex": {
     "version": "6.0.0-pre.2-sangria1",
-    "url": "https://github.com/SEU_USUARIO/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria1/BepInEx-Unity.IL2CPP-win-x64.zip",
+    "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria1/BepInEx-Unity.IL2CPP-win-x64.zip",
     "sha256": "2e60d760e4ac9715443c45bbfd0f3800a20042a80c227165483824b6d3c9ee0b"
   },
   "mods": [
@@ -13,7 +13,7 @@
       "categoria": "UI",
       "versao": "1.0.0",
       "destino": "BepInEx/plugins/ScarletInterface.dll",
-      "url": "https://github.com/SEU_USUARIO/sangria-mods/releases/download/scarlet-interface-1.0.0/ScarletInterface.dll",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/scarlet-interface-1.0.0/ScarletInterface.dll",
       "sha256": "37702f553b0c85ca2d5d6f2b187bb423f1cd72a0d59cef891d5ba7c8e66b9008"
     }
   ]
