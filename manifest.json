@@ -33,7 +33,7 @@
     {
       "id": "sangris-interface",
       "nome": "Sangris Interface",
-      "categoria": "",
+      "categoria": "UI",
       "versao": "1.0.0",
       "destino": "BepInEx/plugins/SangrisInterface.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-interface-1.0.0/SangrisInterface.dll",
