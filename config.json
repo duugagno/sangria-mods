@@ -17,6 +17,10 @@
     "discord": "https://discord.gg/sangriafalls",
     "youtube": "https://www.youtube.com/@sangriafalls"
   },
+  "tabs": {
+    "noticias": true,
+    "ranking": false
+  },
   "text": {
     "pt": {
       "hero.kicker": "V RISING · MODS",
