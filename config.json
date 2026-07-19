@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "atualizadoEm": "2026-07-19",
+  "branding": {
+    "appName": "SANGRIA FALLS",
+    "logoUrl": "",
+    "bgUrl": ""
+  },
+  "theme": {
+    "crimson": "#e52243",
+    "crimsonDeep": "#b3122e",
+    "bg": "#120709",
+    "bg2": "#0d0508",
+    "cream": "#eae0d4"
+  },
+  "links": {
+    "discord": "https://discord.gg/sangriafalls",
+    "youtube": "https://www.youtube.com/@sangriafalls"
+  },
+  "text": {
+    "pt": {
+      "hero.kicker": "V RISING · MODS",
+      "hero.title1": "Desperte a",
+      "hero.title2": "sede de sangue",
+      "hero.sub": "O melhor e maior servidor de V Rising da América Latina. Mods customizados.",
+      "ranking.title": "Ranking",
+      "ranking.subtitle": "Top caçadores do servidor"
+    },
+    "en": {
+      "hero.kicker": "V RISING · MODS",
+      "hero.title1": "Awaken the",
+      "hero.title2": "thirst for blood",
+      "hero.sub": "The biggest and best V Rising server in Latin America. Full custom mods.",
+      "ranking.title": "Ranking",
+      "ranking.subtitle": "Top hunters of the server"
+    },
+    "es": {
+      "hero.kicker": "V RISING · MODS",
+      "hero.title1": "Despierta la",
+      "hero.title2": "sed de sangre",
+      "hero.sub": "El mejor y más grande servidor de V Rising de América Latina. Mods personalizados.",
+      "ranking.title": "Ranking",
+      "ranking.subtitle": "Mejores cazadores del servidor"
+    }
+  }
+}

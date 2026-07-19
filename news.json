@@ -1,27 +1,63 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-07-19",
   "noticias": [
     {
-      "tag": "Novidade",
-      "titulo": "Bem-vindo ao Sangria Falls",
-      "texto": "O launcher agora instala e mantem seus mods de V Rising atualizados automaticamente.",
+      "tag": {
+        "pt": "Novidade",
+        "en": "News",
+        "es": "Novedad"
+      },
+      "titulo": {
+        "pt": "Bem-vindo ao Sangria Falls",
+        "en": "Welcome to Sangria Falls",
+        "es": "Bienvenido a Sangria Falls"
+      },
+      "texto": {
+        "pt": "O launcher agora instala e mantem seus mods de V Rising atualizados automaticamente.",
+        "en": "The launcher now installs and keeps your V Rising mods updated automatically.",
+        "es": "El launcher ahora instala y mantiene tus mods de V Rising actualizados automáticamente."
+      },
       "imagem": "https://raw.githubusercontent.com/duugagno/sangria-mods/main/news/welcome.jpg",
       "url": "https://discord.gg/sangriafalls"
     },
     {
-      "tag": "Mod",
-      "titulo": "Scarlet Interface 1.0.0",
-      "texto": "Nova interface disponivel. Clique em Instalar / Atualizar para baixar.",
+      "tag": {
+        "pt": "Mod",
+        "en": "Mod",
+        "es": "Mod"
+      },
+      "titulo": {
+        "pt": "Scarlet Interface 1.0.0",
+        "en": "Scarlet Interface 1.0.0",
+        "es": "Scarlet Interface 1.0.0"
+      },
+      "texto": {
+        "pt": "Nova interface disponivel. Clique em Instalar / Atualizar para baixar.",
+        "en": "New interface available. Click Install / Update to download.",
+        "es": "Nueva interfaz disponible. Haz clic en Instalar / Actualizar para descargar."
+      },
       "imagem": "https://raw.githubusercontent.com/duugagno/sangria-mods/main/news/scarlet.jpg",
       "url": ""
     },
     {
-      "tag": "Comunidade",
-      "titulo": "Entre no nosso Discord",
-      "texto": "Tire duvidas, sugira mods e acompanhe as atualizacoes com a comunidade.",
+      "tag": {
+        "pt": "Comunidade",
+        "en": "",
+        "es": ""
+      },
+      "titulo": {
+        "pt": "Entre no nosso Discord",
+        "en": "",
+        "es": ""
+      },
+      "texto": {
+        "pt": "Tire duvidas, sugira mods e acompanhe as atualizacoes com a comunidade.",
+        "en": "",
+        "es": ""
+      },
       "imagem": "",
       "url": "https://discord.gg/sangriafalls"
     }
-  ]
+  ],
+  "atualizadoEm": "2026-07-19"
 }

@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "atualizadoEm": "2026-07-19",
+  "titulo": "Top cacadores do servidor",
+  "ranking": [
+    { "nome": "Vlad Tepes", "cla": "Noite Eterna", "pontos": 18240, "unidade": "PVP" },
+    { "nome": "Carmilla", "cla": "Rosa Negra", "pontos": 16510, "unidade": "PVP" },
+    { "nome": "Dracarys", "cla": "Noite Eterna", "pontos": 15980, "unidade": "PVP" },
+    { "nome": "Nosferra", "cla": "Vespera", "pontos": 12300, "unidade": "PVP" },
+    { "nome": "Alucard", "cla": "Solo", "pontos": 11875, "unidade": "PVP" },
+    { "nome": "Mircalla", "cla": "Rosa Negra", "pontos": 9640, "unidade": "PVP" },
+    { "nome": "Renfield", "cla": "Vespera", "pontos": 8120, "unidade": "PVP" }
+  ]
+}
