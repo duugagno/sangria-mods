@@ -3,10 +3,16 @@
   "atualizadoEm": "2026-07-20",
   "versoes": [
     {
+      "versao": "0.2.9",
+      "data": "2026-07-20",
+      "itens": [
+        { "pt": "Nova guia Atualizações: veja o que mudou em cada versão do launcher", "en": "New Updates tab: see what changed in each launcher version", "es": "Nueva pestaña Actualizaciones: mira qué cambió en cada versión del launcher" }
+      ]
+    },
+    {
       "versao": "0.2.8",
       "data": "2026-07-20",
       "itens": [
-        { "pt": "Nova guia Atualizações: veja o que mudou em cada versão do launcher", "en": "New Updates tab: see what changed in each launcher version", "es": "Nueva pestaña Actualizaciones: mira qué cambió en cada versión del launcher" },
         { "pt": "Guia Wiki com a documentação do servidor", "en": "Wiki tab with the server documentation", "es": "Pestaña Wiki con la documentación del servidor" },
         { "pt": "Botão de atualizar: recebe notícias e mods novos sem reabrir o launcher", "en": "Refresh button: get new news and mods without reopening the launcher", "es": "Botón de actualizar: recibe noticias y mods nuevos sin reabrir el launcher" },
         { "pt": "O launcher agora se ajusta automaticamente a telas menores", "en": "The launcher now automatically fits smaller screens", "es": "El launcher ahora se ajusta automáticamente a pantallas más pequeñas" },
