@@ -3,61 +3,118 @@
   "noticias": [
     {
       "tag": {
-        "pt": "Novidade",
-        "en": "News",
-        "es": "Novedad"
+        "pt": "NOVIDADE",
+        "en": "NEWS",
+        "es": "NOVEDAD"
       },
       "titulo": {
-        "pt": "Bem-vindo ao Sangria Falls",
-        "en": "Welcome to Sangria Falls",
-        "es": "Bienvenido a Sangria Falls"
+        "pt": "Novo launcher lançado!",
+        "en": "New launcher released!",
+        "es": "¡Nuevo launcher lanzado!"
       },
       "texto": {
-        "pt": "O launcher agora instala e mantem seus mods de V Rising atualizados automaticamente.",
-        "en": "The launcher now installs and keeps your V Rising mods updated automatically.",
-        "es": "El launcher ahora instala y mantiene tus mods de V Rising actualizados automáticamente."
+        "pt": "Use o launcher de Sangria Falls para gerenciar os seus mods.",
+        "en": "Use the Sangria Falls launcher to manage your mods.",
+        "es": "Usa el launcher de Sangria Falls para gestionar tus mods."
       },
-      "imagem": "https://raw.githubusercontent.com/duugagno/sangria-mods/main/news/welcome.jpg",
-      "url": "https://discord.gg/sangriafalls"
-    },
-    {
-      "tag": {
-        "pt": "Mod",
-        "en": "Mod",
-        "es": "Mod"
-      },
-      "titulo": {
-        "pt": "Scarlet Interface 1.0.0",
-        "en": "Scarlet Interface 1.0.0",
-        "es": "Scarlet Interface 1.0.0"
-      },
-      "texto": {
-        "pt": "Nova interface disponivel. Clique em Instalar / Atualizar para baixar.",
-        "en": "New interface available. Click Install / Update to download.",
-        "es": "Nueva interfaz disponible. Haz clic en Instalar / Actualizar para descargar."
-      },
-      "imagem": "https://raw.githubusercontent.com/duugagno/sangria-mods/main/news/scarlet.jpg",
+      "imagem": "",
       "url": ""
     },
     {
       "tag": {
-        "pt": "Comunidade",
-        "en": "Community",
-        "es": "Comunidad"
+        "pt": "COMUNIDADE",
+        "en": "COMMUNITY",
+        "es": "COMUNIDAD"
       },
       "titulo": {
-        "pt": "Entre no nosso Discord",
-        "en": "Join our Discord",
-        "es": "Únete a nuestro Discord"
+        "pt": "Entre no nosso discord!",
+        "en": "Join our Discord!",
+        "es": "¡Únete a nuestro Discord!"
       },
       "texto": {
-        "pt": "Tire duvidas, sugira mods e acompanhe as atualizacoes com a comunidade.",
-        "en": "Ask questions, suggest mods and keep up with updates alongside the community.",
-        "es": "Resuelve dudas, sugiere mods y sigue las actualizaciones junto a la comunidad."
+        "pt": "",
+        "en": "",
+        "es": ""
       },
       "imagem": "",
-      "url": "https://discord.gg/sangriafalls"
+      "url": ""
+    },
+    {
+      "tag": {
+        "pt": "TESTE",
+        "en": "TEST",
+        "es": "PRUEBA"
+      },
+      "titulo": {
+        "pt": "Uma mensagem de teste",
+        "en": "A test message",
+        "es": "Un mensaje de prueba"
+      },
+      "texto": {
+        "pt": "",
+        "en": "",
+        "es": ""
+      },
+      "imagem": "",
+      "url": ""
+    },
+    {
+      "tag": {
+        "pt": "URGENTE",
+        "en": "",
+        "es": ""
+      },
+      "titulo": {
+        "pt": "Helloween passeia com cachorro",
+        "en": "Helloween walks the dog",
+        "es": "Helloween pasea al perro"
+      },
+      "texto": {
+        "pt": "Extra extra, ele passeia muito!",
+        "en": "Extra extra, he wanders a lot!",
+        "es": "¡Extra, extra, pasea mucho!"
+      },
+      "imagem": "",
+      "url": ""
+    },
+    {
+      "tag": {
+        "pt": "TESTE",
+        "en": "TEST",
+        "es": "PRUEBA"
+      },
+      "titulo": {
+        "pt": "Notícia teste para preencher",
+        "en": "Test news to fill in",
+        "es": "Noticia de prueba para rellenar"
+      },
+      "texto": {
+        "pt": "",
+        "en": "",
+        "es": ""
+      },
+      "imagem": "",
+      "url": ""
+    },
+    {
+      "tag": {
+        "pt": "VAMPIRO",
+        "en": "VAMPIRE",
+        "es": "VAMPIRO"
+      },
+      "titulo": {
+        "pt": "Primeira leva convocada para o beta",
+        "en": "First wave summoned for the beta",
+        "es": "Primera oleada convocada para la beta"
+      },
+      "texto": {
+        "pt": "",
+        "en": "",
+        "es": ""
+      },
+      "imagem": "",
+      "url": ""
     }
   ],
-  "atualizadoEm": "2026-07-19"
+  "atualizadoEm": "2026-07-20"
 }
