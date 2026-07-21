@@ -57,7 +57,7 @@
       "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.7.2/SangrisAutoContinue.dll",
       "sha256": "91421a929c50c930be089cfbe5ba5e722d3db91df6f6c979de863dfd41abfbef",
-      "required": true,
+      "required": false,
       "badge": {
         "text": "Utils",
         "color": "#ff1414"
