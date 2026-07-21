@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-07-19",
+  "atualizadoEm": "2026-07-21",
   "bepinex": {
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
@@ -15,7 +15,11 @@
       "destino": "BepInEx/plugins/ScarletInterface.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/scarlet-interface-1.0.0/ScarletInterface.dll",
       "sha256": "37702f553b0c85ca2d5d6f2b187bb423f1cd72a0d59cef891d5ba7c8e66b9008",
-      "hidden": true
+      "hidden": true,
+      "badge": {
+        "text": "",
+        "color": "#24ff83"
+      }
     },
     {
       "id": "eclipse-sangria",
@@ -27,7 +31,8 @@
       "sha256": "3de3cac11dc7b5c5e6397a68d07e5605b3decd3081e278f6f150493a8fec891e",
       "required": true,
       "badge": {
-        "text": "Basic"
+        "text": "Basic",
+        "color": "#24ff83"
       }
     },
     {
@@ -40,7 +45,28 @@
       "sha256": "6b40cbc1edd183c368ce14d72140811c3d452d6105f93a356f797944d777c4b9",
       "required": true,
       "badge": {
-        "text": "Basic"
+        "text": "Basic",
+        "color": "#24ff83"
+      }
+    },
+    {
+      "id": "sangris-auto-continue",
+      "nome": "Sangris Auto Continue",
+      "categoria": "UI",
+      "versao": "0.7.2",
+      "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.7.2/SangrisAutoContinue.dll",
+      "sha256": "91421a929c50c930be089cfbe5ba5e722d3db91df6f6c979de863dfd41abfbef",
+      "required": true,
+      "badge": {
+        "text": "Utils",
+        "color": "#ff1414"
+      },
+      "toggle": {
+        "arquivo": "BepInEx/config/SangrisAutoContinue.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
       }
     }
   ]

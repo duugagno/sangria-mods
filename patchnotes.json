@@ -1,55 +1,118 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-07-20",
   "versoes": [
+    {
+      "versao": "0.3.1",
+      "data": "2026-07-21",
+      "itens": [
+        {
+          "pt": "Novo: interruptor liga/desliga nos mods da biblioteca — desative um mod sem precisar desinstalar (estreando com o Sangris AutoContinue)",
+          "en": "New: on/off toggle for library mods — disable a mod without needing to uninstall (debuting with Sangris AutoContinue)",
+          "es": "Nuevo: interruptor de encendido/apagado en los mods de la biblioteca — desactiva un mod sin necesidad de desinstalarlo (estrenando con Sangris AutoContinue)"
+        }
+      ]
+    },
     {
       "versao": "0.2.9",
       "data": "2026-07-20",
       "itens": [
-        { "pt": "Nova guia Atualizações: veja o que mudou em cada versão do launcher", "en": "New Updates tab: see what changed in each launcher version", "es": "Nueva pestaña Actualizaciones: mira qué cambió en cada versión del launcher" }
+        {
+          "pt": "Nova guia Atualizações: veja o que mudou em cada versão do launcher",
+          "en": "New Updates tab: see what changed in each launcher version",
+          "es": "Nueva pestaña Actualizaciones: mira qué cambió en cada versión del launcher"
+        }
       ]
     },
     {
       "versao": "0.2.8",
       "data": "2026-07-20",
       "itens": [
-        { "pt": "Guia Wiki com a documentação do servidor", "en": "Wiki tab with the server documentation", "es": "Pestaña Wiki con la documentación del servidor" },
-        { "pt": "Botão de atualizar: recebe notícias e mods novos sem reabrir o launcher", "en": "Refresh button: get new news and mods without reopening the launcher", "es": "Botón de actualizar: recibe noticias y mods nuevos sin reabrir el launcher" },
-        { "pt": "O launcher agora se ajusta automaticamente a telas menores", "en": "The launcher now automatically fits smaller screens", "es": "El launcher ahora se ajusta automáticamente a pantallas más pequeñas" },
-        { "pt": "Barra de progresso em cada mod da biblioteca durante o download", "en": "Progress bar on each library mod while downloading", "es": "Barra de progreso en cada mod de la biblioteca durante la descarga" },
-        { "pt": "Botão Apoie o Servidor e link do site oficial na navegação", "en": "Support the Server button and official site link in the navigation", "es": "Botón Apoya el Servidor y enlace del sitio oficial en la navegación" },
-        { "pt": "Instalar manualmente: alternativa com um clique se a atualização automática falhar", "en": "Install manually: one-click fallback if the automatic update fails", "es": "Instalar manualmente: alternativa con un clic si la actualización automática falla" }
+        {
+          "pt": "Guia Wiki com a documentação do servidor",
+          "en": "Wiki tab with the server documentation",
+          "es": "Pestaña Wiki con la documentación del servidor"
+        },
+        {
+          "pt": "Botão de atualizar: recebe notícias e mods novos sem reabrir o launcher",
+          "en": "Refresh button: get new news and mods without reopening the launcher",
+          "es": "Botón de actualizar: recibe noticias y mods nuevos sin reabrir el launcher"
+        },
+        {
+          "pt": "O launcher agora se ajusta automaticamente a telas menores",
+          "en": "The launcher now automatically fits smaller screens",
+          "es": "El launcher ahora se ajusta automáticamente a pantallas más pequeñas"
+        },
+        {
+          "pt": "Barra de progresso em cada mod da biblioteca durante o download",
+          "en": "Progress bar on each library mod while downloading",
+          "es": "Barra de progreso en cada mod de la biblioteca durante la descarga"
+        },
+        {
+          "pt": "Botão Apoie o Servidor e link do site oficial na navegação",
+          "en": "Support the Server button and official site link in the navigation",
+          "es": "Botón Apoya el Servidor y enlace del sitio oficial en la navegación"
+        },
+        {
+          "pt": "Instalar manualmente: alternativa com um clique se a atualização automática falhar",
+          "en": "Install manually: one-click fallback if the automatic update fails",
+          "es": "Instalar manualmente: alternativa con un clic si la actualización automática falla"
+        }
       ]
     },
     {
       "versao": "0.2.0",
       "data": "2026-07-19",
       "itens": [
-        { "pt": "Tela inicial renovada: redes sociais (YouTube, Discord, Instagram e TikTok) e notícias em duas colunas", "en": "Renewed home screen: social media (YouTube, Discord, Instagram and TikTok) and two-column news", "es": "Pantalla de inicio renovada: redes sociales (YouTube, Discord, Instagram y TikTok) y noticias en dos columnas" },
-        { "pt": "Notícias em três idiomas (português, inglês e espanhol)", "en": "News in three languages (Portuguese, English and Spanish)", "es": "Noticias en tres idiomas (portugués, inglés y español)" },
-        { "pt": "Aviso do botão JOGAR mostra exatamente o que falta instalar ou atualizar", "en": "The PLAY button hint now shows exactly what needs installing or updating", "es": "El aviso del botón JUGAR muestra exactamente qué falta instalar o actualizar" }
+        {
+          "pt": "Tela inicial renovada: redes sociais (YouTube, Discord, Instagram e TikTok) e notícias em duas colunas",
+          "en": "Renewed home screen: social media (YouTube, Discord, Instagram and TikTok) and two-column news",
+          "es": "Pantalla de inicio renovada: redes sociales (YouTube, Discord, Instagram y TikTok) y noticias en dos columnas"
+        },
+        {
+          "pt": "Notícias em três idiomas (português, inglês e espanhol)",
+          "en": "News in three languages (Portuguese, English and Spanish)",
+          "es": "Noticias en tres idiomas (portugués, inglés y español)"
+        },
+        {
+          "pt": "Aviso do botão JOGAR mostra exatamente o que falta instalar ou atualizar",
+          "en": "The PLAY button hint now shows exactly what needs installing or updating",
+          "es": "El aviso del botón JUGAR muestra exactamente qué falta instalar o actualizar"
+        }
       ]
     },
     {
       "versao": "0.1.7",
       "data": "2026-07-19",
       "itens": [
-        { "pt": "Barra de progresso com porcentagem ao baixar atualizações do launcher", "en": "Progress bar with percentage when downloading launcher updates", "es": "Barra de progreso con porcentaje al descargar actualizaciones del launcher" }
+        {
+          "pt": "Barra de progresso com porcentagem ao baixar atualizações do launcher",
+          "en": "Progress bar with percentage when downloading launcher updates",
+          "es": "Barra de progreso con porcentaje al descargar actualizaciones del launcher"
+        }
       ]
     },
     {
       "versao": "0.1.5",
       "data": "2026-07-19",
       "itens": [
-        { "pt": "Atualização silenciosa: instala sem telas e reabre sozinho na versão nova", "en": "Silent update: installs with no screens and reopens by itself on the new version", "es": "Actualización silenciosa: instala sin pantallas y se reabre solo en la versión nueva" }
+        {
+          "pt": "Atualização silenciosa: instala sem telas e reabre sozinho na versão nova",
+          "en": "Silent update: installs with no screens and reopens by itself on the new version",
+          "es": "Actualización silenciosa: instala sin pantallas y se reabre solo en la versión nueva"
+        }
       ]
     },
     {
       "versao": "0.1.0",
       "data": "2026-07-19",
       "itens": [
-        { "pt": "Lançamento do Sangria Falls Launcher: instala o BepInEx e os mods do servidor e mantém tudo atualizado sozinho", "en": "Sangria Falls Launcher release: installs BepInEx and the server mods and keeps everything updated by itself", "es": "Lanzamiento del Sangria Falls Launcher: instala BepInEx y los mods del servidor y mantiene todo actualizado solo" }
+        {
+          "pt": "Lançamento do Sangria Falls Launcher: instala o BepInEx e os mods do servidor e mantém tudo atualizado sozinho",
+          "en": "Sangria Falls Launcher release: installs BepInEx and the server mods and keeps everything updated by itself",
+          "es": "Lanzamiento del Sangria Falls Launcher: instala BepInEx y los mods del servidor y mantiene todo actualizado solo"
+        }
       ]
     }
-  ]
+  ],
+  "atualizadoEm": "2026-07-21"
 }
