@@ -2,6 +2,22 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.3",
+      "data": "2026-07-21",
+      "itens": [
+        {
+          "pt": "Novo: interruptor liga/desliga em todos os mods opcionais da biblioteca — inclusive mods externos detectados. Desative sem desinstalar; o mod volta exatamente como estava",
+          "en": "New: on/off switch on all optional library mods — including detected external mods. Disable without uninstalling; the mod returns exactly as it was",
+          "es": "Nuevo: interruptor de encendido/apagado en todos los mods opcionales de la biblioteca — incluidos los mods externos detectados. Desactiva sin desinstalar; el mod vuelve exactamente como estaba"
+        },
+        {
+          "pt": "Correção: desinstalar um mod pela biblioteca agora funciona em qualquer situação",
+          "en": "Fix: uninstalling a mod from the library now works in any situation",
+          "es": "Corrección: desinstalar un mod desde la biblioteca ahora funciona en cualquier situación"
+        }
+      ]
+    },
+    {
       "versao": "0.3.2",
       "data": "2026-07-21",
       "itens": [
