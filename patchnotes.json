@@ -7,18 +7,18 @@
       "itens": [
         {
           "pt": "Novo: página de detalhes dos mods — clique num mod (ou no ícone 👁) para ver descrição completa, autor, versão e link do site oficial",
-          "en": "",
-          "es": ""
+          "en": "New: mod details page — click on a mod (or the 👁 icon) to see the full description, author, version and link to the official website",
+          "es": "Nuevo: página de detalles de los mods — haz clic en un mod (o en el icono 👁) para ver la descripción completa, el autor, la versión y el enlace al sitio web oficial"
         },
         {
           "pt": "Novo: página de detalhes também no BepInEx — veja pra que serve e por que é necessário",
-          "en": "",
-          "es": ""
+          "en": "New: details page also in BepInEx — see what it's for and why it's necessary",
+          "es": "Nuevo: página de detalles también en BepInEx — mira para qué sirve y por qué es necesaria"
         },
         {
           "pt": "Melhoria: biblioteca mais larga e organizada — botões de instalar, atualizar, ligar/desligar e ver detalhes agora ficam todos na mesma linha, sem cortar o nome dos mods",
-          "en": "",
-          "es": ""
+          "en": "Improvement: wider and more organized library — install, update, enable/disable, and view details buttons are now all on the same line, without cutting off mod names",
+          "es": "Mejora: biblioteca más ancha y organizada — los botones de instalar, actualizar, activar/desactivar y ver detalles ahora están todos en la misma línea, sin cortar el nombre de los mods"
         },
         {
           "pt": "",
