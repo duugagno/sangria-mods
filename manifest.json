@@ -5,7 +5,13 @@
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
     "sha256": "0e7f76076c78c39b6f69a077894df049b7db32f78ae000ac0fa21885b5cfa9c8",
-    "icon": "https://gcdn.thunderstore.io/live/repository/icons/BepInEx-BepInExPack_V_Rising-1.733.2.png"
+    "icon": "https://gcdn.thunderstore.io/live/repository/icons/BepInEx-BepInExPack_V_Rising-1.733.2.png",
+    "site": "https://thunderstore.io/c/v-rising/p/BepInEx/BepInExPack_V_Rising/",
+    "descricao": {
+      "pt": "A base que todos os mods usam para funcionar. O BepInEx carrega os mods no jogo automaticamente ao iniciar, sem alterar os arquivos originais do V Rising. Por isso ele é obrigatório: sem ele, nenhum outro mod roda.",
+      "en": "The base that all mods use to function. BepInEx loads mods into the game automatically at startup, without altering V Rising's original files. That's why it's mandatory: without it, no other mod runs.",
+      "es": "La base que todos los mods usan para funcionar. BepInEx carga los mods en el juego automáticamente al iniciar, sin alterar los archivos originales de V Rising. Por eso es obligatorio: sin él, ningún otro mod funciona."
+    }
   },
   "mods": [
     {
