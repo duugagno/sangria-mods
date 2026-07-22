@@ -92,7 +92,8 @@
         "chave": "Enabled",
         "padrao": true
       },
-      "icon": "https://gcdn.thunderstore.io/live/repository/icons/helskog-Crossveil-0.1.4.png"
+      "icon": "https://gcdn.thunderstore.io/live/repository/icons/helskog-Crossveil-0.1.4.png",
+      "site": "https://thunderstore.io/c/v-rising/p/helskog/Crossveil/"
     }
   ]
 }
