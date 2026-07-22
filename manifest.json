@@ -20,7 +20,8 @@
       "badge": {
         "text": "",
         "color": "#24ff83"
-      }
+      },
+      "autor": "Mark Vaaz"
     },
     {
       "id": "eclipse-sangria",
@@ -35,7 +36,13 @@
         "text": "Basic",
         "color": "#24ff83"
       },
-      "icon": "https://gcdn.thunderstore.io/live/repository/icons/zfolmt-Eclipse-1.3.14.png"
+      "icon": "https://gcdn.thunderstore.io/live/repository/icons/zfolmt-Eclipse-1.3.14.png",
+      "descricao": {
+        "pt": "Mostra na sua tela o progresso dos sistemas do servidor: nível, sangue, armas, pets e profissões. Cada parte da interface pode ser ligada ou desligada do seu jeito.",
+        "en": "Displays on your screen the progress of the server systems: level, blood, weapons, pets and professions. Each part of the interface can be turned on or off your way.",
+        "es": "Muestra en tu pantalla el progreso de los sistemas del servidor: nivel, sangre, armas, mascotas y profesiones. Cada parte de la interfaz se puede activar o desactivar a tu gusto."
+      },
+      "autor": "Mitch & Azor"
     },
     {
       "id": "sangris-interface",
@@ -50,7 +57,13 @@
         "text": "Basic",
         "color": "#24ff83"
       },
-      "icon": "https://cdn.sangriafalls.com/imagens/utils/logo.png"
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/logo.png",
+      "descricao": {
+        "pt": "Melhorias de interface feitas sob medida para o Sangria Falls, deixando as informações e menus do servidor mais claros e agradáveis de usar.",
+        "en": "Interface improvements tailor-made for Sangria Falls, making the server's information and menus clearer and more pleasant to use.",
+        "es": "Mejoras de interfaz hechas a medida para Sangria Falls, que hacen que la información y los menús del servidor sean más claros y agradables de usar."
+      },
+      "autor": "Azor - Sangria Falls"
     },
     {
       "id": "sangris-auto-continue",
@@ -71,7 +84,13 @@
         "chave": "Enabled",
         "padrao": true
       },
-      "icon": "https://cdn.sangriafalls.com/imagens/utils/logo-256.png"
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/logo-256.png",
+      "autor": "Azor - Sangria Falls",
+      "descricao": {
+        "pt": "Reconecta você ao último servidor de Sangria Falls automaticamente, pra você voltar ao jogo sem cliques depois de uma queda de conexão ou reinício do servidor. Perfeito para quando está meditando.",
+        "en": "Automatically reconnects you to the last Sangria Falls server, so you can get back to the game without clicks after a connection drop or server restart. Perfect for when you're meditating.",
+        "es": "Te reconecta automáticamente al último servidor de Sangria Falls, para que vuelvas al juego sin clics tras una caída de conexión o un reinicio del servidor. Perfecto para cuando estás meditando."
+      }
     },
     {
       "id": "crossveil-helskog",
@@ -93,7 +112,13 @@
         "padrao": true
       },
       "icon": "https://gcdn.thunderstore.io/live/repository/icons/helskog-Crossveil-0.1.4.png",
-      "site": "https://thunderstore.io/c/v-rising/p/helskog/Crossveil/"
+      "site": "https://thunderstore.io/c/v-rising/p/helskog/Crossveil/",
+      "descricao": {
+        "pt": "Troca os cursores e miras padrão do jogo pelos seus próprios: use imagens personalizadas, ajuste o tamanho, esconda a mira ou monte coleções de miras organizadas em pastas.",
+        "en": "Swap the game's default cursors and crosshairs for your own: use custom images, adjust the size, hide the crosshair, or build collections of crosshairs organized into folders.",
+        "es": "Cambia los cursores y miras predeterminados del juego por los tuyos: usa imágenes personalizadas, ajusta el tamaño, oculta la mira o crea colecciones de miras organizadas en carpetas."
+      },
+      "autor": "helskog"
     }
   ]
 }
