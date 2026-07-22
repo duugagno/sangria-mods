@@ -2,6 +2,32 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.6",
+      "data": "2026-07-22",
+      "itens": [
+        {
+          "pt": "Novo: página de detalhes dos mods — clique num mod (ou no ícone 👁) para ver descrição completa, autor, versão e link do site oficial",
+          "en": "",
+          "es": ""
+        },
+        {
+          "pt": "Novo: página de detalhes também no BepInEx — veja pra que serve e por que é necessário",
+          "en": "",
+          "es": ""
+        },
+        {
+          "pt": "Melhoria: biblioteca mais larga e organizada — botões de instalar, atualizar, ligar/desligar e ver detalhes agora ficam todos na mesma linha, sem cortar o nome dos mods",
+          "en": "",
+          "es": ""
+        },
+        {
+          "pt": "",
+          "en": "",
+          "es": ""
+        }
+      ]
+    },
+    {
       "versao": "0.3.5",
       "data": "2026-07-22",
       "itens": [

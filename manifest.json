@@ -31,7 +31,7 @@
     },
     {
       "id": "eclipse-sangria",
-      "nome": "Eclipse (Sangria Version)",
+      "nome": "Eclipse (Sangria Ver.)",
       "categoria": "INTERFACE",
       "versao": "1.0.0",
       "destino": "BepInEx/plugins/Eclipse.dll",
