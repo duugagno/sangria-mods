@@ -55,7 +55,7 @@
     {
       "id": "sangris-auto-continue",
       "nome": "Sangris Auto Continue",
-      "categoria": "UI",
+      "categoria": "AUTOMATION",
       "versao": "0.9.3",
       "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.9.3/SangrisAutoContinue.dll",
