@@ -33,7 +33,8 @@
       "badge": {
         "text": "Basic",
         "color": "#24ff83"
-      }
+      },
+      "icon": "https://gcdn.thunderstore.io/live/repository/icons/zfolmt-Eclipse-1.3.14.png"
     },
     {
       "id": "sangris-interface",
@@ -53,10 +54,10 @@
       "id": "sangris-auto-continue",
       "nome": "Sangris Auto Continue",
       "categoria": "UI",
-      "versao": "0.8.2",
+      "versao": "0.8.3",
       "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.8.1/SangrisAutoContinue.dll",
-      "sha256": "6429048507fff24fbc53ed445bddcc5a2ba03ce52765bf53abd4fcd280ad92ab",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.8.3/SangrisAutoContinue.dll",
+      "sha256": "dc93a8cc779a79b828f3fb48e25f7c06202b7b317cf04da506d16fc4db10c70a",
       "required": false,
       "badge": {
         "text": "Utils",
@@ -67,7 +68,29 @@
         "secao": "Geral",
         "chave": "Enabled",
         "padrao": true
-      }
+      },
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/logo-256.png"
+    },
+    {
+      "id": "crossveil-helskog",
+      "nome": "Crossveil",
+      "categoria": "UI",
+      "versao": "0.1.4",
+      "destino": "BepInEx/plugins/Crossveil.dll",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/crossveil-helskog-0.1.4/Crossveil.dll",
+      "sha256": "42a5cae0090f474f206f36a80d420017bd739f0a818625cbaf11142bc2a784f6",
+      "required": true,
+      "badge": {
+        "text": "Utils",
+        "color": "#ff1414"
+      },
+      "toggle": {
+        "arquivo": "BepInEx/config/Crossveil.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      },
+      "icon": "https://gcdn.thunderstore.io/live/repository/icons/helskog-Crossveil-0.1.4.png"
     }
   ]
 }
