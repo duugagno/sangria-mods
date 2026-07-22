@@ -4,7 +4,8 @@
   "bepinex": {
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
-    "sha256": "0e7f76076c78c39b6f69a077894df049b7db32f78ae000ac0fa21885b5cfa9c8"
+    "sha256": "0e7f76076c78c39b6f69a077894df049b7db32f78ae000ac0fa21885b5cfa9c8",
+    "icon": "https://gcdn.thunderstore.io/live/repository/icons/BepInEx-BepInExPack_V_Rising-1.733.2.png"
   },
   "mods": [
     {
@@ -48,7 +49,8 @@
       "badge": {
         "text": "Basic",
         "color": "#24ff83"
-      }
+      },
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/logo.png"
     },
     {
       "id": "sangris-auto-continue",
