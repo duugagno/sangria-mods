@@ -53,10 +53,10 @@
       "id": "sangris-auto-continue",
       "nome": "Sangris Auto Continue",
       "categoria": "UI",
-      "versao": "0.7.3",
+      "versao": "0.8.1",
       "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.7.3/SangrisAutoContinue.dll",
-      "sha256": "6250803b22c7d57fb466ce33372a9df0b9e221b1c25c825937167a0d40dc2c69",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.8.1/SangrisAutoContinue.dll",
+      "sha256": "6429048507fff24fbc53ed445bddcc5a2ba03ce52765bf53abd4fcd280ad92ab",
       "required": false,
       "badge": {
         "text": "Utils",
