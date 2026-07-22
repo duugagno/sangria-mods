@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-07-19",
+  "atualizadoEm": "2026-07-22",
   "branding": {
     "appName": "SANGRIA FALLS",
     "logoUrl": "",
@@ -24,7 +24,8 @@
   },
   "tabs": {
     "noticias": false,
-    "ranking": false
+    "ranking": false,
+    "patchnotes": true
   },
   "text": {
     "pt": {
