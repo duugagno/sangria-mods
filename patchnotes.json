@@ -6,24 +6,19 @@
       "data": "2026-07-22",
       "itens": [
         {
-          "pt": "Novo: página de detalhes dos mods — clique num mod (ou no ícone 👁) para ver descrição completa, autor, versão e link do site oficial",
-          "en": "New: mod details page — click on a mod (or the 👁 icon) to see the full description, author, version and link to the official website",
-          "es": "Nuevo: página de detalles de los mods — haz clic en un mod (o en el icono 👁) para ver la descripción completa, el autor, la versión y el enlace al sitio web oficial"
+          "pt": "Novo: página de detalhes dos mods — clique num mod (ou no ícone 👁) para ver descrição completa, autor, versão e link do site oficial (dentro do Launcher)",
+          "en": "New: mod details page — click on a mod (or the 👁 icon) to see full description, author, version and official website link (inside the Launcher)",
+          "es": "Nuevo: página de detalles de los mods — haz clic en un mod (o en el icono 👁) para ver la descripción completa, el autor, la versión y el enlace al sitio web oficial (dentro del Launcher)"
         },
         {
           "pt": "Novo: página de detalhes também no BepInEx — veja pra que serve e por que é necessário",
-          "en": "New: details page also in BepInEx — see what it's for and why it's necessary",
+          "en": "New: details page also on BepInEx — see what it's for and why it's necessary",
           "es": "Nuevo: página de detalles también en BepInEx — mira para qué sirve y por qué es necesaria"
         },
         {
           "pt": "Melhoria: biblioteca mais larga e organizada — botões de instalar, atualizar, ligar/desligar e ver detalhes agora ficam todos na mesma linha, sem cortar o nome dos mods",
-          "en": "Improvement: wider and more organized library — install, update, enable/disable, and view details buttons are now all on the same line, without cutting off mod names",
+          "en": "Improvement: wider and more organized library — install, update, enable/disable and view details buttons are now all on the same line, without cutting off mod names",
           "es": "Mejora: biblioteca más ancha y organizada — los botones de instalar, actualizar, activar/desactivar y ver detalles ahora están todos en la misma línea, sin cortar el nombre de los mods"
-        },
-        {
-          "pt": "",
-          "en": "",
-          "es": ""
         }
       ]
     },
@@ -32,9 +27,9 @@
       "data": "2026-07-22",
       "itens": [
         {
-          "pt": "Novo: botão de \"olho\" nos mods da biblioteca — abre a página do mod pra você conhecer detalhes",
-          "en": "New: an \"eye\" button on library mods — opens the mod's page so you can learn the details",
-          "es": "Nuevo: botón de \"ojo\" en los mods de la biblioteca — abre la página del mod para que conozcas los detalles"
+          "pt": "Novo: botão de \"olho\" nos mods da biblioteca — abre a página do mod no site (se tiver) pra você conhecer detalhes",
+          "en": "New: an \"eye\" button on library mods — opens the mod's page on the site (if available) so you can learn the details",
+          "es": "Nuevo: botón de \"ojo\" en los mods de la biblioteca — abre la página del mod en el sitio web (si la tiene) para que conozcas los detalles"
         },
         {
           "pt": "Melhoria: interruptor liga/desliga com visual mais elegante e discreto",
