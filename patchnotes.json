@@ -2,6 +2,22 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.5",
+      "data": "2026-07-22",
+      "itens": [
+        {
+          "pt": "Novo: botão de \"olho\" nos mods da biblioteca — abre a página do mod pra você conhecer detalhes",
+          "en": "New: an \"eye\" button on library mods — opens the mod's page so you can learn the details",
+          "es": "Nuevo: botón de \"ojo\" en los mods de la biblioteca — abre la página del mod para que conozcas los detalles"
+        },
+        {
+          "pt": "Melhoria: interruptor liga/desliga com visual mais elegante e discreto",
+          "en": "Improvement: on/off switch with a more elegant and discreet look",
+          "es": "Mejora: interruptor de encendido/apagado con un aspecto más elegante y discreto"
+        }
+      ]
+    },
+    {
       "versao": "0.3.3",
       "data": "2026-07-21",
       "itens": [
