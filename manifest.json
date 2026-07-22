@@ -25,7 +25,7 @@
     {
       "id": "eclipse-sangria",
       "nome": "Eclipse (Sangria Version)",
-      "categoria": "UI",
+      "categoria": "INTERFACE",
       "versao": "1.0.0",
       "destino": "BepInEx/plugins/Eclipse.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/eclipse-sangria-1.0.0/Eclipse.dll",
@@ -40,7 +40,7 @@
     {
       "id": "sangris-interface",
       "nome": "Sangris Interface",
-      "categoria": "UI",
+      "categoria": "INTERFACE",
       "versao": "1.0.0",
       "destino": "BepInEx/plugins/SangrisInterface.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-interface-1.0.0/SangrisInterface.dll",
@@ -76,7 +76,7 @@
     {
       "id": "crossveil-helskog",
       "nome": "Crossveil",
-      "categoria": "UI",
+      "categoria": "INTERFACE",
       "versao": "0.1.4",
       "destino": "BepInEx/plugins/Crossveil.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/crossveil-helskog-0.1.4/Crossveil.dll",
