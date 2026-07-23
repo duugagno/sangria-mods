@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-07-22",
+  "atualizadoEm": "2026-07-23",
   "bepinex": {
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
@@ -48,7 +48,8 @@
         "en": "Displays on your screen the progress of the server systems: level, blood, weapons, pets and professions. Each part of the interface can be turned on or off your way.",
         "es": "Muestra en tu pantalla el progreso de los sistemas del servidor: nivel, sangre, armas, mascotas y profesiones. Cada parte de la interfaz se puede activar o desactivar a tu gusto."
       },
-      "autor": "Mitch & Azor"
+      "autor": "Mitch & Azor",
+      "site": "https://thunderstore.io/c/v-rising/p/zfolmt/Eclipse/"
     },
     {
       "id": "sangris-interface",
