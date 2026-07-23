@@ -2,6 +2,32 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.8",
+      "data": "2026-07-23",
+      "itens": [
+        {
+          "pt": "Corrigido: ao fechar o V Rising e clicar em JOGAR logo em seguida, a Steam recusava abrir o jogo e o launcher ficava travado em \"Abrindo o V Rising…\" pra sempre.",
+          "en": "Fixed: after closing V Rising and clicking PLAY right afterwards, Steam refused to open the game and the launcher stayed stuck on \"Opening V Rising…\" forever.",
+          "es": "Corregido: al cerrar V Rising y pulsar JUGAR justo después, Steam se negaba a abrir el juego y el lanzador se quedaba atascado en \"Abriendo V Rising…\" para siempre."
+        },
+        {
+          "pt": "O launcher agora aguarda o V Rising fechar por completo antes de pedir a abertura pra Steam, mostrando o aviso \"aguardando o V Rising fechar por completo…\".",
+          "en": "The launcher now waits for V Rising to fully close before requesting Steam to open it, showing the notice \"waiting for V Rising to fully close…\".",
+          "es": "El lanzador ahora espera a que V Rising se cierre por completo antes de pedirle a Steam que lo abra, mostrando el aviso \"esperando a que V Rising se cierre por completo…\"."
+        },
+        {
+          "pt": "Se a Steam não conseguir abrir o jogo, o launcher avisa e libera o botão JOGAR pra você tentar de novo — em vez de ficar preso.",
+          "en": "If Steam can't launch the game, the launcher warns you and unlocks the PLAY button so you can try again — instead of getting stuck.",
+          "es": "Si Steam no consigue abrir el juego, el launcher te avisa y libera el botón JUGAR para que puedas intentarlo de nuevo, en lugar de quedarte bloqueado."
+        },
+        {
+          "pt": "Se o jogo ainda estiver aberto, o botão mostra corretamente JOGANDO.",
+          "en": "If the game is still open, the button correctly shows PLAYING.",
+          "es": "Si el juego sigue abierto, el botón muestra correctamente JUGANDO."
+        }
+      ]
+    },
+    {
       "versao": "0.3.6",
       "data": "2026-07-22",
       "itens": [
@@ -178,5 +204,5 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-07-22"
+  "atualizadoEm": "2026-07-23"
 }
