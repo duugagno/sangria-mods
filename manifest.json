@@ -27,7 +27,8 @@
         "text": "",
         "color": "#24ff83"
       },
-      "autor": "Mark Vaaz"
+      "autor": "Mark Vaaz",
+      "required": false
     },
     {
       "id": "eclipse-sangria",
