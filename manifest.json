@@ -24,8 +24,8 @@
       "sha256": "75c60bb819feefa15e711f702c5941cc9009474c27eeec50d2ef5aa5e43e50f0",
       "hidden": false,
       "badge": {
-        "text": "",
-        "color": "#24ff83"
+        "text": "BETA",
+        "color": "#ffcf24"
       },
       "autor": "Mark Vaaz",
       "required": false
