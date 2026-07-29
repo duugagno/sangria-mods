@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-07-28",
+  "atualizadoEm": "2026-07-29",
   "bepinex": {
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
@@ -127,6 +127,34 @@
         "es": "Cambia los cursores y miras predeterminados del juego por los tuyos: usa imágenes personalizadas, ajusta el tamaño, oculta la mira o crea colecciones de miras organizadas en carpetas."
       },
       "autor": "helskog"
+    },
+    {
+      "id": "arach-nope",
+      "nome": "ArachNOPE",
+      "categoria": "INTERFACE",
+      "versao": "1.1.0",
+      "destino": "BepInEx/plugins/ArachNOPE.dll",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/arach-nope-1.0.0/ArachNOPE.dll",
+      "sha256": "cb58a3f4cb67ba23335388cc8fd5e18865037ca2ac6e891f1f5fba366e67ac46",
+      "required": false,
+      "icon": "https://gcdn.thunderstore.io/live/repository/icons/Fryke-ArachNOPE-1.1.0.png",
+      "site": "https://thunderstore.io/c/v-rising/p/Fryke/ArachNOPE/",
+      "autor": "Fryke",
+      "badge": {
+        "text": "",
+        "color": "#ff1414"
+      },
+      "descricao": {
+        "pt": "Substitui todos os visuais de aranhas por modelos de mobília para ajudar jogadores com aracnofobia a aproveitar V Rising.",
+        "en": "Replaces all spider visuals with furniture models to help players with arachnophobia enjoy V Rising.",
+        "es": "Sustituye todos los visuales de arañas por modelos de mobiliario para ayudar a los jugadores con aracnofobia a disfrutar de V Rising."
+      },
+      "toggle": {
+        "arquivo": "BepInEx/config/ArachNOPE.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      }
     }
   ]
 }
