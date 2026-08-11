@@ -211,7 +211,8 @@
         "en": "Swap the game's default cursors and crosshairs for your own: use custom images, adjust the size, hide the crosshair, or build collections of crosshairs organized into folders.",
         "es": "Cambia los cursores y miras predeterminados del juego por los tuyos: usa imágenes personalizadas, ajusta el tamaño, oculta la mira o crea colecciones de miras organizadas en carpetas."
       },
-      "autor": "helskog"
+      "autor": "helskog",
+      "vitrine": true
     }
   ]
 }
