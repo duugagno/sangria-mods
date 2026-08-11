@@ -2,6 +2,17 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.11",
+      "data": "2026-08-11",
+      "itens": [
+        {
+          "pt": "Vitrine deslizante de mods em destaque na tela inicial — clique pra conhecer e instalar.",
+          "en": "Sliding showcase of featured mods on the home screen — click to check them out and install.",
+          "es": "Escaparate deslizante de mods destacados en la pantalla de inicio: haz clic para conocerlos e instalarlos."
+        }
+      ]
+    },
+    {
       "versao": "0.3.10",
       "data": "2026-08-11",
       "itens": [

@@ -104,10 +104,10 @@
       "id": "sangris-auto-continue",
       "nome": "AutoContinue",
       "categoria": "CONNECTION",
-      "versao": "0.9.6",
+      "versao": "1.0.0",
       "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-0.9.6/SangrisAutoContinue.dll",
-      "sha256": "18cf96e637644c886eb1abb6d952a3b9d78d37b93a9c217f7e158fe1cf2098ca",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-1.0.0/SangrisAutoContinue.dll",
+      "sha256": "f3c58c97a0017886a8c222342d07fcf1063ccffcda2480fe70e855e21a6796c5",
       "required": false,
       "badge": {
         "text": "Utils",
@@ -121,22 +121,22 @@
       },
       "icon": "https://cdn.sangriafalls.com/imagens/utils/logo-256.png",
       "autor": "Azor",
-      "descricao": {
-        "pt": "Reconecta você ao último servidor de Sangria Falls automaticamente, pra você voltar ao jogo sem cliques depois de uma queda de conexão ou reinício do servidor. Perfeito para quando está meditando.",
-        "en": "Automatically reconnects you to the last Sangria Falls server, so you can get back to the game without clicks after a connection drop or server restart. Perfect for when you're meditating.",
-        "es": "Te reconecta automáticamente al último servidor de Sangria Falls, para que vuelvas al juego sin clics tras una caída de conexión o un reinicio del servidor. Perfecto para cuando estás meditando."
-      },
       "destaque": true,
-      "vitrine": true
+      "vitrine": true,
+      "descricao": {
+        "pt": "AutoContinue reconecta você automaticamente aos servidores Sangria Falls e Scarlet Falls, pra você voltar ao jogo sem cliques depois de uma queda de conexão ou de um reinício do servidor. Perfeito para quando você está meditando ou longe do teclado.\n\nAssim que a conexão cai ou o servidor reinicia, o mod aguarda ele voltar e te reconecta sozinho ao último servidor Sangria Falls / Scarlet Falls onde você estava — sem você precisar clicar em \"Continuar\" ou procurar o servidor na lista.\n\nÉ um mod client-side, exclusivo dos servidores Sangria Falls e Scarlet Falls: instalou, já funciona.",
+        "en": "AutoContinue automatically reconnects you to the Sangria Falls and Scarlet Falls servers, so you can get back into the game without any clicks after a connection drop or a server restart. Perfect for when you're meditating or away from the keyboard.\n\nAs soon as the connection drops or the server restarts, the mod waits for it to come back and reconnects you on its own to the last Sangria Falls / Scarlet Falls server you were on — no need to click \"Continue\" or search for the server in the list.\n\nIt's a client-side mod, exclusive to the Sangria Falls and Scarlet Falls servers: install it, and it just works.",
+        "es": "AutoContinue te reconecta automáticamente a los servidores Sangria Falls y Scarlet Falls, para que vuelvas al juego sin clics tras una caída de conexión o un reinicio del servidor. Perfecto para cuando estás meditando o lejos del teclado.\n\nEn cuanto se cae la conexión o el servidor se reinicia, el mod espera a que vuelva y te reconecta él solo al último servidor Sangria Falls / Scarlet Falls en el que estabas, sin que tengas que pulsar \"Continuar\" ni buscar el servidor en la lista.\n\nEs un mod client-side, exclusivo de los servidores Sangria Falls y Scarlet Falls: lo instalas y ya funciona."
+      }
     },
     {
       "id": "sangris-nospiders",
       "nome": "NoSpiders",
       "categoria": "INTERFACE",
-      "versao": "1.0.0",
+      "versao": "1.0.3",
       "destino": "BepInEx/plugins/SangrisNoSpiders.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nospiders-1.0.0/SangrisNoSpiders.dll",
-      "sha256": "4715b7e3626140a7af360fb1b051585cda877949f42b8ce6918ea7f35fabf1c8",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nospiders-1.0.3/SangrisNoSpiders.dll",
+      "sha256": "e3f38299a4fedf263f99006b556e7e49bba41ca1b1ccbf4683ead576fb51cb5d",
       "required": false,
       "icon": "https://cdn.sangriafalls.com/imagens/utils/sangris-nospiders-150.png",
       "badge": {
@@ -145,9 +145,9 @@
       },
       "autor": "Azor",
       "descricao": {
-        "pt": "NoSpiders é um mod de acessibilidade para quem tem aracnofobia. Ele substitui todas as aranhas do V Rising por bichos de fazenda inofensivos: aranhas pequenas viram porquinhos, as comuns viram ovelhas e porcos, e os chefes viram vacas — a Rainha Ungora vira uma vaca gigante. Bosses em fase de respawn aparecem como bichos avermelhados.\n\nA mecânica não muda em nada — dano, habilidades, teias, vida e loot são exatamente os mesmos. Só o modelo 3D das aranhas é trocado, e apenas na sua tela: outros jogadores continuam vendo aranhas normais.\n\nDiferente de mods parecidos, aqui você consegue morder e consumir os chefes normalmente — a Ungora dá pra derrotar e sugar sem problema nenhum.\n\nÉ um mod client-side: cada jogador instala por conta própria, não precisa de nada no servidor, e não afeta mais ninguém. Instalou, já vem ativo (dá pra alternar por tecla - F9).",
-        "en": "NoSpiders is an accessibility mod for people with arachnophobia. It replaces all spiders in V Rising with harmless farm animals: small spiders become piglets, common ones become sheep and pigs, and the bosses become cows — Queen Ungora becomes a giant cow. Bosses in their respawn phase appear as reddish animals.\n\nThe mechanics don't change at all — damage, abilities, webs, health, and loot are exactly the same. Only the spiders' 3D model is swapped, and only on your screen: other players still see normal spiders.\n\nUnlike similar mods, here you can bite and consume the bosses normally — Ungora can be defeated and drained without any issue.\n\nIt's a client-side mod: each player installs it on their own, nothing is needed on the server, and it doesn't affect anyone else. Once installed, it's active right away (you can toggle it with a key - F9).",
-        "es": "NoSpiders es un mod de accesibilidad para quienes tienen aracnofobia. Sustituye todas las arañas de V Rising por animales de granja inofensivos: las arañas pequeñas se convierten en cerditos, las comunes en ovejas y cerdos, y los jefes en vacas — la Reina Ungora se convierte en una vaca gigante. Los jefes en fase de reaparición aparecen como animales rojizos.\n\nLas mecánicas no cambian en absoluto — el daño, las habilidades, las telarañas, la vida y el botín son exactamente los mismos. Solo se cambia el modelo 3D de las arañas, y únicamente en tu pantalla: los demás jugadores siguen viendo arañas normales.\n\nA diferencia de mods parecidos, aquí puedes morder y consumir a los jefes con normalidad — a Ungora se la puede derrotar y absorber sin ningún problema.\n\nEs un mod client-side: cada jugador lo instala por su cuenta, no hace falta nada en el servidor y no afecta a nadie más. Una vez instalado, ya viene activado (se puede alternar con una tecla - F9)."
+        "pt": "NoSpiders é um mod de acessibilidade para quem tem aracnofobia. Ele substitui todas as aranhas do V Rising por animais dóceis e inofensivos: as aranhas pequenas (filhotes) viram ratinhos, as comuns viram ovelhas e porcos, as da floresta e as instáveis viram cervos, a Aranha Ninhadeira vira uma vaca, e a Rainha Ungora vira um cavalo. A versão primordial da Ungora (das incursões) aparece como um cavalo com aura vermelha.\n\nA mecânica não muda em nada — dano, habilidades, teias, vida e loot são exatamente os mesmos. Só o modelo 3D das aranhas é trocado, e apenas na sua tela: outros jogadores continuam vendo aranhas normais.\n\nDiferente de mods parecidos, aqui você consegue morder e consumir os chefes normalmente — a Ungora dá pra derrotar e sugar sem problema nenhum.\n\nÉ um mod client-side: cada jogador instala por conta própria, não precisa de nada no servidor, e não afeta mais ninguém. Instalou, já vem ativo (dá pra alternar por tecla - F9).",
+        "en": "NoSpiders is an accessibility mod for people with arachnophobia. It replaces all spiders in V Rising with docile, harmless animals: small spiders (spiderlings) become little mice, common ones become sheep and pigs, forest and volatile spiders become deer, the Broodmother Spider becomes a cow, and Queen Ungora becomes a horse. The primal version of Ungora (from incursions) appears as a horse with a red aura.\n\nThe mechanics don't change at all — damage, abilities, webs, health and loot are exactly the same. Only the spiders' 3D model is swapped, and only on your screen: other players keep seeing normal spiders.\n\nUnlike similar mods, here you can bite and consume bosses normally — Ungora can be defeated and drained with no problem at all.\n\nIt's a client-side mod: each player installs it on their own, nothing is needed on the server, and it doesn't affect anyone else. Once installed, it's active right away (you can toggle it with a key - F9).",
+        "es": "NoSpiders es un mod de accesibilidad para quienes tienen aracnofobia. Sustituye todas las arañas de V Rising por animales dóciles e inofensivos: las arañas pequeñas (crías) se convierten en ratoncillos, las comunes en ovejas y cerdos, las del bosque y las inestables en ciervos, la Araña Nodriza en una vaca, y la Reina Ungora en un caballo. La versión primigenia de Ungora (la de las incursiones) aparece como un caballo con un aura roja.\n\nLas mecánicas no cambian en absoluto: el daño, las habilidades, las telarañas, la vida y el botín son exactamente los mismos. Solo se sustituye el modelo 3D de las arañas, y únicamente en tu pantalla: los demás jugadores siguen viendo arañas normales.\n\nA diferencia de mods parecidos, aquí puedes morder y consumir a los jefes con normalidad: a Ungora se la puede derrotar y absorber sin ningún problema.\n\nEs un mod client-side: cada jugador lo instala por su cuenta, no hace falta nada en el servidor y no afecta a nadie más. Una vez instalado, ya viene activado (se puede alternar con una tecla: F9)."
       },
       "toggle": {
         "arquivo": "BepInEx/config/SangrisNoSpiders.cfg",
@@ -161,10 +161,10 @@
       "id": "sangris-nobloodmoon",
       "nome": "NoBloodMoon",
       "categoria": "INTERFACE",
-      "versao": "1.0.2",
+      "versao": "1.0.4",
       "destino": "BepInEx/plugins/SangrisNoBloodMoon.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.0.2/SangrisNoBloodMoon.dll",
-      "sha256": "b9e742cc7807e68c7dea88599ea8072b35320de4afb379d9c128942862aa5ae2",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.0.4/SangrisNoBloodMoon.dll",
+      "sha256": "f9926b68274f3b6b75123e0f511e4c9b99721aed3e2ce5ecaadafe3f9041172e",
       "required": false,
       "badge": {
         "text": "Utils",
@@ -173,9 +173,9 @@
       "autor": "Azor",
       "icon": "https://cdn.sangriafalls.com/imagens/utils/iconv2.png",
       "descricao": {
-        "pt": "Remove o filtro vermelho da Lua de Sangue — tint, névoa e vinheta — mantendo o evento e os buffs intactos. Client-side, zero impacto em gameplay. Instalou, já está ativo; F7 alterna na sessão.",
-        "en": "Removes the Blood Moon's red filter — tint, fog and vignette — while keeping the event and buffs intact. Client-side, zero gameplay impact. Once installed, it's active; F7 toggles it during the session.",
-        "es": "Elimina el filtro rojo de la Luna de Sangre — tinte, niebla y viñeta — manteniendo intactos el evento y los buffs. Del lado del cliente, sin impacto alguno en la jugabilidad. Una vez instalado, ya está activo; F7 lo alterna durante la sesión."
+        "pt": "NoBloodMoon remove o filtro vermelho da Lua de Sangue no V Rising. Toda vez que a Lua de Sangue começa, a tela ganha aquele tom avermelhado, a névoa vermelha e a vinheta nas bordas — este mod tira tudo isso e deixa a noite com a aparência normal, sem o incômodo visual.\n\nO evento continua acontecendo normalmente — os buffs da Lua de Sangue, os spawns e toda a mecânica ficam exatamente iguais. Só o efeito visual vermelho é suprimido, e apenas na sua tela.\n\nFunciona automaticamente: assim que a Lua de Sangue começa (ou você entra no servidor com ela ativa), o vermelho some em segundos. É um mod client-side — cada jogador instala por conta própria, não precisa de nada no servidor. Instalou, já vem ativo (dá pra alternar por tecla - F7).",
+        "en": "NoBloodMoon removes the Blood Moon's red filter in V Rising. Every time the Blood Moon starts, the screen gets that reddish tint, the red fog and the vignette on the edges — this mod removes all of that and leaves the night looking normal, without the visual annoyance.\n\nThe event still happens normally — the Blood Moon buffs, the spawns and all the mechanics stay exactly the same. Only the red visual effect is suppressed, and only on your screen.\n\nIt works automatically: as soon as the Blood Moon starts (or you join the server with it active), the red disappears within seconds. It's a client-side mod — each player installs it on their own, nothing is needed on the server. Once installed, it's active right away (you can toggle it with a key - F7).",
+        "es": "NoBloodMoon elimina el filtro rojo de la Luna de Sangre en V Rising. Cada vez que comienza la Luna de Sangre, la pantalla adquiere ese tono rojizo, la niebla roja y la viñeta en los bordes — este mod quita todo eso y deja la noche con un aspecto normal, sin la molestia visual.\n\nEl evento sigue ocurriendo con normalidad — los buffs de la Luna de Sangre, los spawns y toda la mecánica se mantienen exactamente igual. Solo se suprime el efecto visual rojo, y únicamente en tu pantalla.\n\nFunciona automáticamente: en cuanto comienza la Luna de Sangre (o entras al servidor con ella activa), el rojo desaparece en segundos. Es un mod client-side — cada jugador lo instala por su cuenta, no hace falta nada en el servidor. Una vez instalado, ya viene activo (se puede alternar con una tecla - F7)."
       },
       "toggle": {
         "arquivo": "BepInEx/config/SangrisNoBloodMoon.cfg",
