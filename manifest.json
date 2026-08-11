@@ -16,7 +16,7 @@
   "mods": [
     {
       "id": "scarlet-interface",
-      "nome": "Scarlet Interface",
+      "nome": "ScarletInterface",
       "categoria": "INTERFACE",
       "versao": "1.0.6",
       "destino": "BepInEx/plugins/ScarletInterface.dll",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sangris-interface",
-      "nome": "Sangris Interface",
+      "nome": "SangrisInterface",
       "categoria": "INTERFACE",
       "versao": "1.0.0",
       "destino": "BepInEx/plugins/SangrisInterface.dll",
@@ -91,7 +91,7 @@
         "en": "Interface improvements tailor-made for Sangria Falls, making the server's information and menus clearer and more pleasant to use.",
         "es": "Mejoras de interfaz hechas a medida para Sangria Falls, que hacen que la información y los menús del servidor sean más claros y agradables de usar."
       },
-      "autor": "Azor - Sangria Falls",
+      "autor": "Azor",
       "toggle": {
         "arquivo": "BepInEx/config/SangrisInterface.cfg",
         "secao": "Geral",
@@ -102,7 +102,7 @@
     },
     {
       "id": "sangris-auto-continue",
-      "nome": "Sangris Auto Continue",
+      "nome": "AutoContinue",
       "categoria": "CONNECTION",
       "versao": "0.9.6",
       "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
@@ -120,7 +120,7 @@
         "padrao": true
       },
       "icon": "https://cdn.sangriafalls.com/imagens/utils/logo-256.png",
-      "autor": "Azor - Sangria Falls",
+      "autor": "Azor",
       "descricao": {
         "pt": "Reconecta você ao último servidor de Sangria Falls automaticamente, pra você voltar ao jogo sem cliques depois de uma queda de conexão ou reinício do servidor. Perfeito para quando está meditando.",
         "en": "Automatically reconnects you to the last Sangria Falls server, so you can get back to the game without clicks after a connection drop or server restart. Perfect for when you're meditating.",
@@ -129,19 +129,46 @@
       "destaque": true
     },
     {
+      "id": "sangris-nospiders",
+      "nome": "NoSpiders",
+      "categoria": "INTERFACE",
+      "versao": "1.0.0",
+      "destino": "BepInEx/plugins/SangrisNoSpiders.dll",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nospiders-1.0.0/SangrisNoSpiders.dll",
+      "sha256": "4715b7e3626140a7af360fb1b051585cda877949f42b8ce6918ea7f35fabf1c8",
+      "required": false,
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/sangris-nospiders-150.png",
+      "badge": {
+        "text": "Utils",
+        "color": "#ff1414"
+      },
+      "autor": "Azor",
+      "descricao": {
+        "pt": "NoSpiders é um mod de acessibilidade para quem tem aracnofobia. Ele substitui todas as aranhas do V Rising por bichos de fazenda inofensivos: aranhas pequenas viram porquinhos, as comuns viram ovelhas e porcos, e os chefes viram vacas — a Rainha Ungora vira uma vaca gigante. Bosses em fase de respawn aparecem como bichos avermelhados.\n\nA mecânica não muda em nada — dano, habilidades, teias, vida e loot são exatamente os mesmos. Só o modelo 3D das aranhas é trocado, e apenas na sua tela: outros jogadores continuam vendo aranhas normais.\n\nDiferente de mods parecidos, aqui você consegue morder e consumir os chefes normalmente — a Ungora dá pra derrotar e sugar sem problema nenhum.\n\nÉ um mod client-side: cada jogador instala por conta própria, não precisa de nada no servidor, e não afeta mais ninguém. Instalou, já vem ativo (dá pra alternar por tecla - F9).",
+        "en": "NoSpiders is an accessibility mod for people with arachnophobia. It replaces all spiders in V Rising with harmless farm animals: small spiders become piglets, common ones become sheep and pigs, and the bosses become cows — Queen Ungora becomes a giant cow. Bosses in their respawn phase appear as reddish animals.\n\nThe mechanics don't change at all — damage, abilities, webs, health, and loot are exactly the same. Only the spiders' 3D model is swapped, and only on your screen: other players still see normal spiders.\n\nUnlike similar mods, here you can bite and consume the bosses normally — Ungora can be defeated and drained without any issue.\n\nIt's a client-side mod: each player installs it on their own, nothing is needed on the server, and it doesn't affect anyone else. Once installed, it's active right away (you can toggle it with a key - F9).",
+        "es": "NoSpiders es un mod de accesibilidad para quienes tienen aracnofobia. Sustituye todas las arañas de V Rising por animales de granja inofensivos: las arañas pequeñas se convierten en cerditos, las comunes en ovejas y cerdos, y los jefes en vacas — la Reina Ungora se convierte en una vaca gigante. Los jefes en fase de reaparición aparecen como animales rojizos.\n\nLas mecánicas no cambian en absoluto — el daño, las habilidades, las telarañas, la vida y el botín son exactamente los mismos. Solo se cambia el modelo 3D de las arañas, y únicamente en tu pantalla: los demás jugadores siguen viendo arañas normales.\n\nA diferencia de mods parecidos, aquí puedes morder y consumir a los jefes con normalidad — a Ungora se la puede derrotar y absorber sin ningún problema.\n\nEs un mod client-side: cada jugador lo instala por su cuenta, no hace falta nada en el servidor y no afecta a nadie más. Una vez instalado, ya viene activado (se puede alternar con una tecla - F9)."
+      },
+      "toggle": {
+        "arquivo": "BepInEx/config/SangrisNoSpiders.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      }
+    },
+    {
       "id": "sangris-nobloodmoon",
       "nome": "NoBloodMoon",
       "categoria": "INTERFACE",
-      "versao": "1.0.1",
+      "versao": "1.0.2",
       "destino": "BepInEx/plugins/SangrisNoBloodMoon.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.0.1/SangrisNoBloodMoon.dll",
-      "sha256": "8327ee81108c925a798ebf910925829f1475a5a8306128319b62311ce22f12a0",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.0.2/SangrisNoBloodMoon.dll",
+      "sha256": "b9e742cc7807e68c7dea88599ea8072b35320de4afb379d9c128942862aa5ae2",
       "required": false,
       "badge": {
         "text": "Utils",
         "color": "#ff1414"
       },
-      "autor": "Azor - Sangria Falls",
+      "autor": "Azor",
       "icon": "https://cdn.sangriafalls.com/imagens/utils/iconv2.png",
       "descricao": {
         "pt": "Remove o filtro vermelho da Lua de Sangue — tint, névoa e vinheta — mantendo o evento e os buffs intactos. Client-side, zero impacto em gameplay. Instalou, já está ativo; F7 alterna na sessão.",
@@ -182,34 +209,6 @@
         "es": "Cambia los cursores y miras predeterminados del juego por los tuyos: usa imágenes personalizadas, ajusta el tamaño, oculta la mira o crea colecciones de miras organizadas en carpetas."
       },
       "autor": "helskog"
-    },
-    {
-      "id": "arach-nope",
-      "nome": "ArachNOPE",
-      "categoria": "INTERFACE",
-      "versao": "1.1.0",
-      "destino": "BepInEx/plugins/ArachNOPE.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/arach-nope-1.0.0/ArachNOPE.dll",
-      "sha256": "cb58a3f4cb67ba23335388cc8fd5e18865037ca2ac6e891f1f5fba366e67ac46",
-      "required": false,
-      "icon": "https://gcdn.thunderstore.io/live/repository/icons/Fryke-ArachNOPE-1.1.0.png",
-      "site": "https://thunderstore.io/c/v-rising/p/Fryke/ArachNOPE/",
-      "autor": "Fryke",
-      "badge": {
-        "text": "Utils",
-        "color": "#ff1414"
-      },
-      "descricao": {
-        "pt": "Substitui todos os visuais de aranhas por modelos de mobília para ajudar jogadores com aracnofobia a aproveitar V Rising.",
-        "en": "Replaces all spider visuals with furniture models to help players with arachnophobia enjoy V Rising.",
-        "es": "Sustituye todos los visuales de arañas por modelos de mobiliario para ayudar a los jugadores con aracnofobia a disfrutar de V Rising."
-      },
-      "toggle": {
-        "arquivo": "BepInEx/config/ArachNOPE.cfg",
-        "secao": "Geral",
-        "chave": "Enabled",
-        "padrao": true
-      }
     }
   ]
 }
