@@ -17,7 +17,7 @@
     {
       "id": "scarlet-interface",
       "nome": "Scarlet Interface",
-      "categoria": "UI",
+      "categoria": "INTERFACE",
       "versao": "1.0.6",
       "destino": "BepInEx/plugins/ScarletInterface.dll",
       "url": "https://github.com/duugagno/sangria-mods/releases/download/scarlet-interface-1.0.6/ScarletInterface.dll",
