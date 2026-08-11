@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-08-10",
+  "atualizadoEm": "2026-08-11",
   "bepinex": {
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
@@ -28,7 +28,19 @@
         "color": "#ffcf24"
       },
       "autor": "Mark Vaaz",
-      "required": false
+      "required": false,
+      "descricao": {
+        "pt": "Janelas, painéis e HUDs personalizados renderizados nativamente no seu jogo. Com o ScarletInterface instalado, servidores modificados ganham menus interativos completos — lojas, missões, rankings, correio, painéis de clã — tudo com o visual do próprio jogo, sem comandos de chat e sem alt-tab. Leve, atualizado em tempo real e invisível quando você não precisa dele: instale uma vez e desbloqueie toda a experiência.",
+        "en": "Custom windows, panels, and HUDs rendered natively in your game. With ScarletInterface installed, modded servers gain full interactive menus — shops, quests, leaderboards, mail, clan panels — all with the game's own look and feel, no chat commands and no alt-tabbing. Lightweight, updated in real time, and invisible when you don't need it: install it once and unlock the full experience.",
+        "es": "Ventanas, paneles y HUD personalizados renderizados de forma nativa en tu juego. Con ScarletInterface instalado, los servidores modificados obtienen menús interactivos completos: tiendas, misiones, clasificaciones, correo, paneles de clan… todo con la estética del propio juego, sin comandos de chat y sin alt-tab. Ligero, actualizado en tiempo real e invisible cuando no lo necesitas: instálalo una vez y desbloquea toda la experiencia."
+      },
+      "toggle": {
+        "arquivo": "BepInEx/config/ScarletInterface.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      },
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/ScarletInterface_logo_150.png"
     },
     {
       "id": "eclipse-sangria",
@@ -50,7 +62,13 @@
         "es": "Muestra en tu pantalla el progreso de los sistemas del servidor: nivel, sangre, armas, mascotas y profesiones. Cada parte de la interfaz se puede activar o desactivar a tu gusto."
       },
       "autor": "Mitch & Azor",
-      "site": "https://thunderstore.io/c/v-rising/p/zfolmt/Eclipse/"
+      "site": "https://thunderstore.io/c/v-rising/p/zfolmt/Eclipse/",
+      "toggle": {
+        "arquivo": "BepInEx/config/Eclipse.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      }
     },
     {
       "id": "sangris-interface",
@@ -71,7 +89,13 @@
         "en": "Interface improvements tailor-made for Sangria Falls, making the server's information and menus clearer and more pleasant to use.",
         "es": "Mejoras de interfaz hechas a medida para Sangria Falls, que hacen que la información y los menús del servidor sean más claros y agradables de usar."
       },
-      "autor": "Azor - Sangria Falls"
+      "autor": "Azor - Sangria Falls",
+      "toggle": {
+        "arquivo": "BepInEx/config/SangrisInterface.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      }
     },
     {
       "id": "sangris-auto-continue",
@@ -151,6 +175,33 @@
       },
       "toggle": {
         "arquivo": "BepInEx/config/ArachNOPE.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      }
+    },
+    {
+      "id": "sangris-nobloodmoon",
+      "nome": "SangrisNoBloodMoon",
+      "categoria": "INTERFACE",
+      "versao": "1.0.1",
+      "destino": "BepInEx/plugins/SangrisNoBloodMoon.dll",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.0.1/SangrisNoBloodMoon.dll",
+      "sha256": "8327ee81108c925a798ebf910925829f1475a5a8306128319b62311ce22f12a0",
+      "required": false,
+      "badge": {
+        "text": "Utils",
+        "color": "#ff1414"
+      },
+      "autor": "Azor - Sangria Falls",
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/icon.png",
+      "descricao": {
+        "pt": "Remove o filtro vermelho da Lua de Sangue — tint, névoa e vinheta — mantendo o evento e os buffs intactos. Client-side, zero impacto em gameplay. Instalou, já está ativo; F7 alterna na sessão.",
+        "en": "Removes the Blood Moon's red filter — tint, fog and vignette — while keeping the event and buffs intact. Client-side, zero gameplay impact. Once installed, it's active; F7 toggles it during the session.",
+        "es": "Elimina el filtro rojo de la Luna de Sangre — tinte, niebla y viñeta — manteniendo intactos el evento y los buffs. Del lado del cliente, sin impacto alguno en la jugabilidad. Una vez instalado, ya está activo; F7 lo alterna durante la sesión."
+      },
+      "toggle": {
+        "arquivo": "BepInEx/config/SangrisNoBloodMoon.cfg",
         "secao": "Geral",
         "chave": "Enabled",
         "padrao": true
