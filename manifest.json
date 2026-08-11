@@ -40,7 +40,8 @@
         "chave": "Enabled",
         "padrao": true
       },
-      "icon": "https://cdn.sangriafalls.com/imagens/utils/ScarletInterface_logo_150.png"
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/ScarletInterface_logo_150.png",
+      "destaque": true
     },
     {
       "id": "eclipse-sangria",
@@ -68,7 +69,8 @@
         "secao": "Geral",
         "chave": "Enabled",
         "padrao": true
-      }
+      },
+      "destaque": true
     },
     {
       "id": "sangris-interface",
@@ -95,7 +97,8 @@
         "secao": "Geral",
         "chave": "Enabled",
         "padrao": true
-      }
+      },
+      "destaque": true
     },
     {
       "id": "sangris-auto-continue",
@@ -122,7 +125,8 @@
         "pt": "Reconecta você ao último servidor de Sangria Falls automaticamente, pra você voltar ao jogo sem cliques depois de uma queda de conexão ou reinício do servidor. Perfeito para quando está meditando.",
         "en": "Automatically reconnects you to the last Sangria Falls server, so you can get back to the game without clicks after a connection drop or server restart. Perfect for when you're meditating.",
         "es": "Te reconecta automáticamente al último servidor de Sangria Falls, para que vuelvas al juego sin clics tras una caída de conexión o un reinicio del servidor. Perfecto para cuando estás meditando."
-      }
+      },
+      "destaque": true
     },
     {
       "id": "sangris-nobloodmoon",
