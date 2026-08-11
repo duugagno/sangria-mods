@@ -194,7 +194,7 @@
         "color": "#ff1414"
       },
       "autor": "Azor - Sangria Falls",
-      "icon": "https://cdn.sangriafalls.com/imagens/utils/icon.png",
+      "icon": "https://cdn.sangriafalls.com/imagens/utils/iconv2.png",
       "descricao": {
         "pt": "Remove o filtro vermelho da Lua de Sangue — tint, névoa e vinheta — mantendo o evento e os buffs intactos. Client-side, zero impacto em gameplay. Instalou, já está ativo; F7 alterna na sessão.",
         "en": "Removes the Blood Moon's red filter — tint, fog and vignette — while keeping the event and buffs intact. Client-side, zero gameplay impact. Once installed, it's active; F7 toggles it during the session.",
