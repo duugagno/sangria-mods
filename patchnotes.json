@@ -2,6 +2,17 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.10",
+      "data": "2026-08-11",
+      "itens": [
+        {
+          "pt": "A biblioteca da tela inicial ficou mais limpa: seus mods instalados + os destaques do servidor",
+          "en": "The home screen library is now cleaner: your installed mods + the server highlights",
+          "es": "La biblioteca de la pantalla de inicio está más limpia: tus mods instalados + los destacados del servidor"
+        }
+      ]
+    },
+    {
       "versao": "0.3.9",
       "data": "2026-08-11",
       "itens": [
