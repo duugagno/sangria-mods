@@ -182,7 +182,7 @@
     },
     {
       "id": "sangris-nobloodmoon",
-      "nome": "SangrisNoBloodMoon",
+      "nome": "NoBloodMoon",
       "categoria": "INTERFACE",
       "versao": "1.0.1",
       "destino": "BepInEx/plugins/SangrisNoBloodMoon.dll",
