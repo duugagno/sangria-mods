@@ -126,7 +126,8 @@
         "en": "Automatically reconnects you to the last Sangria Falls server, so you can get back to the game without clicks after a connection drop or server restart. Perfect for when you're meditating.",
         "es": "Te reconecta automáticamente al último servidor de Sangria Falls, para que vuelvas al juego sin clics tras una caída de conexión o un reinicio del servidor. Perfecto para cuando estás meditando."
       },
-      "destaque": true
+      "destaque": true,
+      "vitrine": true
     },
     {
       "id": "sangris-nospiders",
@@ -153,7 +154,8 @@
         "secao": "Geral",
         "chave": "Enabled",
         "padrao": true
-      }
+      },
+      "vitrine": true
     },
     {
       "id": "sangris-nobloodmoon",
@@ -180,7 +182,8 @@
         "secao": "Geral",
         "chave": "Enabled",
         "padrao": true
-      }
+      },
+      "vitrine": true
     },
     {
       "id": "crossveil-helskog",
