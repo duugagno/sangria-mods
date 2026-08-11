@@ -2,6 +2,32 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.9",
+      "data": "2026-08-11",
+      "itens": [
+        {
+          "pt": "Nova aba MODS: veja todos os mods do servidor em um só lugar, com descrição completa de cada um.",
+          "en": "New MODS tab: see all the server's mods in one place, with a full description of each one.",
+          "es": "Nueva pestaña MODS: consulta todos los mods del servidor en un solo lugar, con una descripción completa de cada uno."
+        },
+        {
+          "pt": "Busque pelo nome, filtre por categoria ou veja só os instalados.",
+          "en": "Search by name, filter by category, or view only installed ones.",
+          "es": "Busca por nombre, filtra por categoría o mira solo los instalados."
+        },
+        {
+          "pt": "Botões claros em cada mod: instalar, ver detalhes, ativar/desativar e desinstalar.",
+          "en": "Clear buttons on each mod: install, view details, enable/disable, and uninstall.",
+          "es": "Botones claros en cada mod: instalar, ver detalles, activar/desactivar y desinstalar."
+        },
+        {
+          "pt": "A biblioteca da tela inicial agora mostra só o que você tem instalado — o catálogo completo fica na aba MODS.",
+          "en": "The home screen library now shows only what you have installed — the full catalog is in the MODS tab.",
+          "es": "La biblioteca de la pantalla de inicio ahora muestra solo lo que tienes instalado; el catálogo completo está en la pestaña MODS."
+        }
+      ]
+    },
+    {
       "versao": "0.3.8",
       "data": "2026-07-23",
       "itens": [
@@ -204,5 +230,5 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-07-23"
+  "atualizadoEm": "2026-08-11"
 }
