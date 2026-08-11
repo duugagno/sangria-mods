@@ -2,6 +2,17 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.12",
+      "data": "2026-08-11",
+      "itens": [
+        {
+          "pt": "Corrigido: em algumas telas o launcher abria levemente borrado — agora fica sempre nítido, ajustando o layout em vez de dar zoom.",
+          "en": "Fixed: on some screens the launcher would open slightly blurry — now it's always sharp, adjusting the layout instead of zooming.",
+          "es": "Corregido: en algunas pantallas el launcher se abría ligeramente borroso — ahora siempre se ve nítido, ajustando el diseño en lugar de hacer zoom."
+        }
+      ]
+    },
+    {
       "versao": "0.3.11",
       "data": "2026-08-11",
       "itens": [
