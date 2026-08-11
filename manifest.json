@@ -161,10 +161,10 @@
       "id": "sangris-nobloodmoon",
       "nome": "NoBloodMoon",
       "categoria": "INTERFACE",
-      "versao": "1.0.5",
+      "versao": "1.1.0",
       "destino": "BepInEx/plugins/SangrisNoBloodMoon.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.0.5/SangrisNoBloodMoon.dll",
-      "sha256": "a8e3775542d5aae297a4a011bfc9267f482fb11fa1bd95fc4e407d493ac93af6",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.1.0/SangrisNoBloodMoon.dll",
+      "sha256": "cf8b41df3aba08734ec2cc86565f52852946de957065f36d86fea474c08aa6c5",
       "required": false,
       "badge": {
         "text": "Utils",
