@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-08-11",
+  "atualizadoEm": "2026-08-12",
   "bepinex": {
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
@@ -133,10 +133,10 @@
       "id": "sangris-nospiders",
       "nome": "NoSpiders",
       "categoria": "INTERFACE",
-      "versao": "1.0.3",
+      "versao": "1.0.4",
       "destino": "BepInEx/plugins/SangrisNoSpiders.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nospiders-1.0.3/SangrisNoSpiders.dll",
-      "sha256": "e3f38299a4fedf263f99006b556e7e49bba41ca1b1ccbf4683ead576fb51cb5d",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nospiders-1.0.4/SangrisNoSpiders.dll",
+      "sha256": "73af62f5ca97c2792ca24c31e24a53fa9be89e08bd6637a1308ac9fff8188dcf",
       "required": false,
       "icon": "https://cdn.sangriafalls.com/imagens/utils/sangris-nospiders-150.png",
       "badge": {
@@ -161,10 +161,10 @@
       "id": "sangris-nobloodmoon",
       "nome": "NoBloodMoon",
       "categoria": "INTERFACE",
-      "versao": "1.1.0",
+      "versao": "1.1.1",
       "destino": "BepInEx/plugins/SangrisNoBloodMoon.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.1.0/SangrisNoBloodMoon.dll",
-      "sha256": "cf8b41df3aba08734ec2cc86565f52852946de957065f36d86fea474c08aa6c5",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-nobloodmoon-1.1.1/SangrisNoBloodMoon.dll",
+      "sha256": "00cb401ac5af872428867eab9b5920229db9d9fbdf8d4c6cbbecccd4cf4697d1",
       "required": false,
       "badge": {
         "text": "Utils",
