@@ -2,6 +2,17 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.16",
+      "data": "2026-08-14",
+      "itens": [
+        {
+          "pt": "Corrigido o bug mais chato do launcher: desativar um mod não desativava nada. O interruptor desligava na tela e o mod continuava rodando no jogo.",
+          "en": "Fixed the launcher's most annoying bug: disabling a mod didn't actually disable anything. The toggle switched off on screen and the mod kept running in-game.",
+          "es": "Corregido el bug más molesto del launcher: desactivar un mod no desactivaba nada. El interruptor se apagaba en pantalla y el mod seguía ejecutándose en el juego."
+        }
+      ]
+    },
+    {
       "versao": "0.3.12",
       "data": "2026-08-11",
       "itens": [
@@ -263,5 +274,5 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-11"
+  "atualizadoEm": "2026-08-14"
 }
