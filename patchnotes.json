@@ -2,6 +2,17 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.17",
+      "data": "2026-08-17",
+      "itens": [
+        {
+          "pt": "O launcher agora guarda a última cópia do catálogo de mods, notícias e aparência. Se o GitHub estiver fora do ar ou sua conexão falhar na hora de abrir, tudo continua aparecendo normalmente.",
+          "en": "The launcher now saves the latest copy of the mod catalog, news, and appearance. If GitHub is down or your connection fails when opening it, everything still shows up normally.",
+          "es": "El launcher ahora guarda la última copia del catálogo de mods, las noticias y la apariencia. Si GitHub está caído o tu conexión falla al abrirlo, todo sigue mostrándose con normalidad."
+        }
+      ]
+    },
+    {
       "versao": "0.3.16",
       "data": "2026-08-14",
       "itens": [
@@ -274,5 +285,5 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-14"
+  "atualizadoEm": "2026-08-17"
 }
