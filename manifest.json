@@ -24,7 +24,7 @@
       "sha256": "af43ada5e112c0fbebc91ba45b5d9d967e9567b8f09b15966112ba0a901231c3",
       "hidden": false,
       "badge": {
-        "text": "BETA",
+        "text": "UI",
         "color": "#ffcf24"
       },
       "autor": "Mark Vaaz",
@@ -216,6 +216,35 @@
         "es": "Cambia los cursores y miras predeterminados del juego por los tuyos: usa imágenes personalizadas, ajusta el tamaño, oculta la mira o crea colecciones de miras organizadas en carpetas."
       },
       "autor": "helskog",
+      "vitrine": true
+    },
+    {
+      "id": "retro-camera",
+      "nome": "RetroCamera",
+      "categoria": "INTERFACE",
+      "versao": "1.5.4",
+      "destino": "BepInEx/plugins/RetroCamera.dll",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/retro-camera-1.5.4/RetroCamera.dll",
+      "sha256": "2923c1f42e6e67370b45fb78a3cbea97087ab28602e7a840fb505097129890af",
+      "required": false,
+      "toggle": {
+        "arquivo": "BepInEx/config/RetroCamera.cfg",
+        "secao": "Geral",
+        "chave": "Enabled",
+        "padrao": true
+      },
+      "badge": {
+        "text": "UI",
+        "color": "#ffcf24"
+      },
+      "icon": "https://raw.githubusercontent.com/duugagno/sangria-mods/main/assets/zfolmt-RetroCamera-1.5.4.png",
+      "autor": "zfolmt",
+      "site": "https://thunderstore.io/c/v-rising/p/zfolmt/RetroCamera/",
+      "descricao": {
+        "pt": "Câmera livre e modo de ação para o V Rising. Use a tecla HOME, ] e [ para manipular.",
+        "en": "Free camera and action mode for V Rising. Use the HOME, ] and [ keys to control it.",
+        "es": "Cámara libre y modo de acción para V Rising. Usa las teclas HOME, ] y [ para manejarla."
+      },
       "vitrine": true
     }
   ]
