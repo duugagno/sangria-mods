@@ -2,6 +2,22 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.18",
+      "data": "2026-09-27",
+      "itens": [
+        {
+          "pt": "O Eclipse e o SangrisInterface deixaram de ser usados no servidor. Ao atualizar, o launcher remove os dois do seu jogo automaticamente. Se o V Rising estiver aberto, a remoção acontece assim que você fechar o jogo.",
+          "en": "Eclipse and SangrisInterface are no longer used on the server. After updating, the launcher automatically removes both from your game. If V Rising is open, the removal happens as soon as you close the game.",
+          "es": "Eclipse y SangrisInterface ya no se usan en el servidor. Al actualizar, el launcher los elimina de tu juego automáticamente. Si V Rising está abierto, la eliminación ocurre en cuanto cierres el juego."
+        },
+        {
+          "pt": "Mods que saírem do servidor agora são desinstalados sozinhos pelo launcher, sem você precisar apagar nada na pasta do jogo.",
+          "en": "Mods removed from the server are now uninstalled by the launcher on its own, so you never have to delete anything from the game folder.",
+          "es": "Los mods que salgan del servidor ahora los desinstala el launcher por sí solo, sin que tengas que borrar nada de la carpeta del juego."
+        }
+      ]
+    },
+    {
       "versao": "0.3.17",
       "data": "2026-08-17",
       "itens": [
@@ -285,5 +301,5 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-17"
+  "atualizadoEm": "2026-09-27"
 }
