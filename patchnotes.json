@@ -2,6 +2,22 @@
   "schema": 1,
   "versoes": [
     {
+      "versao": "0.3.20",
+      "data": "2026-09-28",
+      "itens": [
+        {
+          "pt": "Tela inicial mais limpa: o quadro de notícias saiu, e a arte do servidor e a sua biblioteca de mods ganharam mais espaço.",
+          "en": "Cleaner home screen: the news board is gone, giving the server art and your mod library more room.",
+          "es": "Pantalla de inicio más limpia: se quitó el tablero de noticias y el arte del servidor y tu biblioteca de mods ganaron más espacio."
+        },
+        {
+          "pt": "YouTube, Discord, Instagram e TikTok agora ficam em ícones no topo do launcher, ao lado de minimizar e fechar.",
+          "en": "YouTube, Discord, Instagram and TikTok now sit as icons at the top of the launcher, next to minimize and close.",
+          "es": "YouTube, Discord, Instagram y TikTok ahora están como íconos en la parte superior del launcher, junto a minimizar y cerrar."
+        }
+      ]
+    },
+    {
       "versao": "0.3.18",
       "data": "2026-09-27",
       "itens": [
@@ -301,5 +317,5 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-09-27"
+  "atualizadoEm": "2026-09-28"
 }
