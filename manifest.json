@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizadoEm": "2026-09-27",
+  "atualizadoEm": "2026-10-01",
   "bepinex": {
     "version": "6.0.0-pre.2-sangria2",
     "url": "https://github.com/duugagno/sangria-mods/releases/download/bepinex-6.0.0-pre.2-sangria2/BepInEx-Unity.IL2CPP-win-x64.zip",
@@ -108,10 +108,10 @@
       "id": "sangris-auto-continue",
       "nome": "AutoContinue",
       "categoria": "CONNECTION",
-      "versao": "1.0.0",
+      "versao": "1.0.1",
       "destino": "BepInEx/plugins/SangrisAutoContinue.dll",
-      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-1.0.0/SangrisAutoContinue.dll",
-      "sha256": "f3c58c97a0017886a8c222342d07fcf1063ccffcda2480fe70e855e21a6796c5",
+      "url": "https://github.com/duugagno/sangria-mods/releases/download/sangris-auto-continue-1.0.1/SangrisAutoContinue.dll",
+      "sha256": "bcce8e5c211530bc4f7831ab19d3f8b4dd533b87ffa59e019eadbfcfd8c3f947",
       "required": false,
       "badge": {
         "text": "Utils",
