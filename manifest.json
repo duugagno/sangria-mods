@@ -174,7 +174,7 @@
         "text": "Utils",
         "color": "#ff1414"
       },
-      "autor": "Azor",
+      "autor": "Azor / Ideia: Brainiac",
       "icon": "https://cdn.sangriafalls.com/imagens/utils/iconv2.png",
       "descricao": {
         "pt": "NoBloodMoon remove o filtro vermelho da Lua de Sangue no V Rising. Toda vez que a Lua de Sangue começa, a tela ganha aquele tom avermelhado, a névoa vermelha e a vinheta nas bordas — este mod tira tudo isso e deixa a noite com a aparência normal, sem o incômodo visual.\n\nO evento continua acontecendo normalmente — os buffs da Lua de Sangue, os spawns e toda a mecânica ficam exatamente iguais. Só o efeito visual vermelho é suprimido, e apenas na sua tela.\n\nFunciona automaticamente: assim que a Lua de Sangue começa (ou você entra no servidor com ela ativa), o vermelho some em segundos. É um mod client-side — cada jogador instala por conta própria, não precisa de nada no servidor. Instalou, já vem ativo (dá pra alternar por tecla - F7).\n\nCréditos: a ideia deste mod veio do NoBloodMooonTint, de Brainiac (thunderstore.io/c/v-rising/p/Brainiac/NoBloodMooonTint). O NoBloodMoon foi escrito do zero pela equipe do Sangria Falls e funciona de outro jeito, mas o conceito original é dele.",
